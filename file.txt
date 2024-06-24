@@ -1,4 +1,8 @@
 Trisha Ramos
 CMSC 23
 U1L
+<<<<<<< HEAD
 instructor: Sir JC
+=======
+instructor: Sir JC Angeles
+>>>>>>> branch1
